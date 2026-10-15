@@ -54,5 +54,5 @@ This repository contains the **RESTful API** (Part 2) built with ASP.NET Core, E
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Mcebo01/WebApplication_prompt_users.git
+cd YWebApplication_prompt_users
