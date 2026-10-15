@@ -9,6 +9,9 @@ on:
 jobs:
   build-and-test:
     runs-on: ubuntu-latest
+    
+    env:
+      DOTNET_MULTILEVEL_LOOKUP: 0
 
     steps:
       - uses: actions/checkout@v4
