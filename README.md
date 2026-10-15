@@ -55,4 +55,4 @@ This repository contains the **RESTful API** (Part 2) built with ASP.NET Core, E
 
 ```bash
 git clone https://github.com/Mcebo01/WebApplication_prompt_users.git
-cd YWebApplication_prompt_users
+cd RaceDay_API
