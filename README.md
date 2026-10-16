@@ -51,6 +51,9 @@ This repository contains the **RESTful API** (Part 2) built with ASP.NET Core, E
 - .NET 8 SDK (or the version you used)
 - SQL Server LocalDB or full SQL Server
 
+### Youtube Video
+https://youtu.be/FNznL60Au4Y
+
 ### 1. Clone the repository
 
 ```bash
