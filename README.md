@@ -54,6 +54,9 @@ This repository contains the **RESTful API** (Part 2) built with ASP.NET Core, E
 ### Youtube Video
 https://youtu.be/FNznL60Au4Y
 
+### CI/CD screenshot
+
+
 ### 1. Clone the repository
 
 ```bash
